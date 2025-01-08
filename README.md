@@ -1,1 +1,1 @@
-# data_science_projects
+# proyecto_eda_ventas_videojuegos
